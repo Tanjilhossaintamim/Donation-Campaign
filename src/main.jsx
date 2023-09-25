@@ -18,7 +18,7 @@ const router = createBrowserRouter([
         element: <HomePage />,
       },
       {
-        path: "/donation",
+        path: "/donations",
         element: <DonationPage />,
       },
       {
@@ -26,7 +26,7 @@ const router = createBrowserRouter([
         element: <StatisticsPage />,
       },
       {
-        path: "/donation/:id",
+        path: "/donation/details/:id",
         element: <Details />,
       },
     ],
