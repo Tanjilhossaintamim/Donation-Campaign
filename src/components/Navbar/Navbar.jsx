@@ -1,8 +1,10 @@
-import { NavLink } from "react-router-dom";
+import { NavLink, useMatch } from "react-router-dom";
 import ContentWrapper from "../ContentWrapper/ContentWrapper";
 const Navbar = () => {
+  const homeroute = useMatch("/");
+  const navclass = "absolute top-0 left-0 right-0 w-full bg-transparent";
   return (
-    <nav className="py-12 absolute top-0 left-0 right-0 w-full bg-transparent">
+    <nav className={`py-12 ${homeroute ? navclass : ""}`}>
       <ContentWrapper>
         <div className="flex justify-between items-center">
           {/* logo side  */}
