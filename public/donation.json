@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "picture": "https://s3-alpha-sig.figma.com/img/dc2b/01d7/bf69b0786c15caeae95edc74821add1d?Expires=1696809600&Signature=Eif4W~JikblFiEpzMCQfAj887B7wF37ZHI~SUBGGlBs--3nC0dVcQQM3-jdWtq01eyiorK4oTzpSQbARWVkb-gmFF6bwwf801YuiYCNfNaYlCoU39MJHykTFdhIA0O09T3TN46gQdcoNwBY-hnw2EOgNRxKbWEgNxWmZ~HEUKWkMtF6KRX~052L0s26wmqFLLj4iQa-ZnYbx2yw8pfJWsWQC0OS6Te5DVqFMVJ-7fV0c~~fRuykWXD92Fcl2Hl-CiipTethvjllMs6tBkmvL3-j2Evk-KDJWp33OIpbdErCJ8tHD4wz~3eVymRbKOoRfrynt2~HcFgx6F2DRkqWOow__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Health",
+    "description": "High-quality headphones with noise cancellation.",
+    "price": 199.99,
+    "category_bg": "#CCDCFF",
+    "card_bg": "#D9E5FF",
+    "text_and_button_bg": "#0052FF"
+  },
+  {
+    "id": 2,
+    "picture": "https://s3-alpha-sig.figma.com/img/3236/7f7c/bb78eb35b1d83676bfeb091b0af13288?Expires=1696809600&Signature=nhoDcldy77HjP~FexUye3KQKjLvA6rbGTKBXaej0G9UFNuIx6qHzXxg1J5yDMLKduYWJsiuHzntNdQrmCNcn~9dMNk5q-jlpPLb3GCoXJ-lxZhxT0jMgpOUpnJbmpbKNtTqglI2NxISPIgaT8HX8QqHDvv~vnEbT1r~KejLFi5pY2A501p8fRztTLLFxma9x2My81yPz0SMD2L6MaCeWe8qPUcnmy6-KX09cMozrM7P8oEhYA7aiuq1arChAhGoQ06Qr5IhukZRhIXE3Aeu~PgDG80wVYwMdRr8l7TEm8VofKsN-OxQmlGjF68YeHbm0Iwh~WKKe1Sq1W5mUR1kz7g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Education",
+    "description": "Men's classic black leather jacket.",
+    "price": 149.99,
+    "category_bg": "#FFDADB",
+    "card_bg": "#FFE3E4",
+    "text_and_button_bg": "#FF444A"
+  },
+  {
+    "id": 3,
+    "picture": "https://s3-alpha-sig.figma.com/img/7202/2d30/fb4761ab794b7c6a3bbe47db5aada389?Expires=1696809600&Signature=Au0-Q-7KmkkzDCG3NUwRfCVKwRrYuuTTtKfPuKR1HX5FByxIV2OkBtZiY5JDdvqS0BqAsRpKhd28-1cELNpJ4UsqZjxx0rUZQNJAwAyNK4lrhrBp1CbvOY-zWRMaWVuVjJP7ScNZ1u0S1VFY-AB4zHcM0OnMrDQbEZi2N5~AxU3lBKtjKpCZWcqKCOEbr-AwaqGcpHbbl89MM71-0ba9WVsOuwc3Yn4mvH14lOn-3AbhfRIAAtwl3ouIT8bVjcY~YiTp0InstQwJkIaCF9J2D-oyWVl4mvcyDT49uyRvcT1Vh4AKjoSnTbTL18A255zVW51NN~8rakqJKa5Abe~zJQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Clothing",
+    "description": "Elegant vase with floral design.",
+    "price": 29.99,
+    "category_bg": "#E4F3D9",
+    "card_bg": "#EBF6E2",
+    "text_and_button_bg": "#79C23F"
+  },
+  {
+    "id": 4,
+    "picture": "https://s3-alpha-sig.figma.com/img/ff66/6d19/a5a6654d792205c42250767f04885dec?Expires=1696809600&Signature=gXGfGzaTzlIzQn50wOqfZdgJ~9R7-5nChp7y~Esq43XH8qmxFQZng2ZLzKOTXviR4pX0ppaDcZAN4DDClbFbC2w6F0qUmQsE76CEiglsCEj-39CuyU3XdEeeLbktDmBRz33YlFrkBJEINjW0cnvr3H3MNNSAJt-J7x~V5dEMsCWfDkpz48leoGfJ50KUf7wCnxJQaxp~N-zB4mHOU0-4K9eRj02x0CWDJwx1UNC9y46x58GgtqOL2TvjabXOFCpzPSY3vJSm355ddLPQxz7P3mmNPwSG7vraYWNdLOk4j9E7tn~WLLn7lauAhVaujRqkPZDQneAKUq-87QBKNpdCcw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Food",
+    "description": "Best-selling novel: The Great Adventure.",
+    "price": 12.99,
+    "category_bg": "#FEE3DA",
+    "card_bg": "#FEEAE4",
+    "text_and_button_bg": "#F87147"
+  },
+  {
+    "id": 5,
+    "picture": "https://s3-alpha-sig.figma.com/img/ff66/6d19/a5a6654d792205c42250767f04885dec?Expires=1696809600&Signature=gXGfGzaTzlIzQn50wOqfZdgJ~9R7-5nChp7y~Esq43XH8qmxFQZng2ZLzKOTXviR4pX0ppaDcZAN4DDClbFbC2w6F0qUmQsE76CEiglsCEj-39CuyU3XdEeeLbktDmBRz33YlFrkBJEINjW0cnvr3H3MNNSAJt-J7x~V5dEMsCWfDkpz48leoGfJ50KUf7wCnxJQaxp~N-zB4mHOU0-4K9eRj02x0CWDJwx1UNC9y46x58GgtqOL2TvjabXOFCpzPSY3vJSm355ddLPQxz7P3mmNPwSG7vraYWNdLOk4j9E7tn~WLLn7lauAhVaujRqkPZDQneAKUq-87QBKNpdCcw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Food",
+    "description": "Best-selling novel: The Great Adventure.",
+    "price": 12.99,
+    "category_bg": "#FEE3DA",
+    "card_bg": "#FEEAE4",
+    "text_and_button_bg": "#F87147"
+  },
+  {
+    "id": 6,
+    "picture": "https://s3-alpha-sig.figma.com/img/7202/2d30/fb4761ab794b7c6a3bbe47db5aada389?Expires=1696809600&Signature=Au0-Q-7KmkkzDCG3NUwRfCVKwRrYuuTTtKfPuKR1HX5FByxIV2OkBtZiY5JDdvqS0BqAsRpKhd28-1cELNpJ4UsqZjxx0rUZQNJAwAyNK4lrhrBp1CbvOY-zWRMaWVuVjJP7ScNZ1u0S1VFY-AB4zHcM0OnMrDQbEZi2N5~AxU3lBKtjKpCZWcqKCOEbr-AwaqGcpHbbl89MM71-0ba9WVsOuwc3Yn4mvH14lOn-3AbhfRIAAtwl3ouIT8bVjcY~YiTp0InstQwJkIaCF9J2D-oyWVl4mvcyDT49uyRvcT1Vh4AKjoSnTbTL18A255zVW51NN~8rakqJKa5Abe~zJQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Clothing",
+    "description": "Elegant vase with floral design.",
+    "price": 29.99,
+    "category_bg": "#E4F3D9",
+    "card_bg": "#EBF6E2",
+    "text_and_button_bg": "#79C23F"
+  },
+  {
+    "id": 7,
+    "picture": "https://s3-alpha-sig.figma.com/img/3236/7f7c/bb78eb35b1d83676bfeb091b0af13288?Expires=1696809600&Signature=nhoDcldy77HjP~FexUye3KQKjLvA6rbGTKBXaej0G9UFNuIx6qHzXxg1J5yDMLKduYWJsiuHzntNdQrmCNcn~9dMNk5q-jlpPLb3GCoXJ-lxZhxT0jMgpOUpnJbmpbKNtTqglI2NxISPIgaT8HX8QqHDvv~vnEbT1r~KejLFi5pY2A501p8fRztTLLFxma9x2My81yPz0SMD2L6MaCeWe8qPUcnmy6-KX09cMozrM7P8oEhYA7aiuq1arChAhGoQ06Qr5IhukZRhIXE3Aeu~PgDG80wVYwMdRr8l7TEm8VofKsN-OxQmlGjF68YeHbm0Iwh~WKKe1Sq1W5mUR1kz7g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Education",
+    "description": "Men's classic black leather jacket.",
+    "price": 149.99,
+    "category_bg": "#FFDADB",
+    "card_bg": "#FFE3E4",
+    "text_and_button_bg": "#FF444A"
+  },
+  {
+    "id": 8,
+    "picture": "https://s3-alpha-sig.figma.com/img/dc2b/01d7/bf69b0786c15caeae95edc74821add1d?Expires=1696809600&Signature=Eif4W~JikblFiEpzMCQfAj887B7wF37ZHI~SUBGGlBs--3nC0dVcQQM3-jdWtq01eyiorK4oTzpSQbARWVkb-gmFF6bwwf801YuiYCNfNaYlCoU39MJHykTFdhIA0O09T3TN46gQdcoNwBY-hnw2EOgNRxKbWEgNxWmZ~HEUKWkMtF6KRX~052L0s26wmqFLLj4iQa-ZnYbx2yw8pfJWsWQC0OS6Te5DVqFMVJ-7fV0c~~fRuykWXD92Fcl2Hl-CiipTethvjllMs6tBkmvL3-j2Evk-KDJWp33OIpbdErCJ8tHD4wz~3eVymRbKOoRfrynt2~HcFgx6F2DRkqWOow__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Health",
+    "description": "High-quality headphones with noise cancellation.",
+    "price": 199.99,
+    "category_bg": "#CCDCFF",
+    "card_bg": "#D9E5FF",
+    "text_and_button_bg": "#0052FF"
+  },
+  {
+    "id": 9,
+    "picture": "https://s3-alpha-sig.figma.com/img/dc2b/01d7/bf69b0786c15caeae95edc74821add1d?Expires=1696809600&Signature=Eif4W~JikblFiEpzMCQfAj887B7wF37ZHI~SUBGGlBs--3nC0dVcQQM3-jdWtq01eyiorK4oTzpSQbARWVkb-gmFF6bwwf801YuiYCNfNaYlCoU39MJHykTFdhIA0O09T3TN46gQdcoNwBY-hnw2EOgNRxKbWEgNxWmZ~HEUKWkMtF6KRX~052L0s26wmqFLLj4iQa-ZnYbx2yw8pfJWsWQC0OS6Te5DVqFMVJ-7fV0c~~fRuykWXD92Fcl2Hl-CiipTethvjllMs6tBkmvL3-j2Evk-KDJWp33OIpbdErCJ8tHD4wz~3eVymRbKOoRfrynt2~HcFgx6F2DRkqWOow__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Health",
+    "description": "High-quality headphones with noise cancellation.",
+    "price": 199.99,
+    "category_bg": "#CCDCFF",
+    "card_bg": "#D9E5FF",
+    "text_and_button_bg": "#0052FF"
+  },
+  {
+    "id": 10,
+    "picture": "https://s3-alpha-sig.figma.com/img/3236/7f7c/bb78eb35b1d83676bfeb091b0af13288?Expires=1696809600&Signature=nhoDcldy77HjP~FexUye3KQKjLvA6rbGTKBXaej0G9UFNuIx6qHzXxg1J5yDMLKduYWJsiuHzntNdQrmCNcn~9dMNk5q-jlpPLb3GCoXJ-lxZhxT0jMgpOUpnJbmpbKNtTqglI2NxISPIgaT8HX8QqHDvv~vnEbT1r~KejLFi5pY2A501p8fRztTLLFxma9x2My81yPz0SMD2L6MaCeWe8qPUcnmy6-KX09cMozrM7P8oEhYA7aiuq1arChAhGoQ06Qr5IhukZRhIXE3Aeu~PgDG80wVYwMdRr8l7TEm8VofKsN-OxQmlGjF68YeHbm0Iwh~WKKe1Sq1W5mUR1kz7g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Education",
+    "description": "Men's classic black leather jacket.",
+    "price": 149.99,
+    "category_bg": "#FFDADB",
+    "card_bg": "#FFE3E4",
+    "text_and_button_bg": "#FF444A"
+  },
+  {
+    "id": 11,
+    "picture": "https://s3-alpha-sig.figma.com/img/7202/2d30/fb4761ab794b7c6a3bbe47db5aada389?Expires=1696809600&Signature=Au0-Q-7KmkkzDCG3NUwRfCVKwRrYuuTTtKfPuKR1HX5FByxIV2OkBtZiY5JDdvqS0BqAsRpKhd28-1cELNpJ4UsqZjxx0rUZQNJAwAyNK4lrhrBp1CbvOY-zWRMaWVuVjJP7ScNZ1u0S1VFY-AB4zHcM0OnMrDQbEZi2N5~AxU3lBKtjKpCZWcqKCOEbr-AwaqGcpHbbl89MM71-0ba9WVsOuwc3Yn4mvH14lOn-3AbhfRIAAtwl3ouIT8bVjcY~YiTp0InstQwJkIaCF9J2D-oyWVl4mvcyDT49uyRvcT1Vh4AKjoSnTbTL18A255zVW51NN~8rakqJKa5Abe~zJQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Clothing",
+    "description": "Elegant vase with floral design.",
+    "price": 29.99,
+    "category_bg": "#E4F3D9",
+    "card_bg": "#EBF6E2",
+    "text_and_button_bg": "#79C23F"
+  },
+  {
+    "id": 12,
+    "picture": "https://s3-alpha-sig.figma.com/img/ff66/6d19/a5a6654d792205c42250767f04885dec?Expires=1696809600&Signature=gXGfGzaTzlIzQn50wOqfZdgJ~9R7-5nChp7y~Esq43XH8qmxFQZng2ZLzKOTXviR4pX0ppaDcZAN4DDClbFbC2w6F0qUmQsE76CEiglsCEj-39CuyU3XdEeeLbktDmBRz33YlFrkBJEINjW0cnvr3H3MNNSAJt-J7x~V5dEMsCWfDkpz48leoGfJ50KUf7wCnxJQaxp~N-zB4mHOU0-4K9eRj02x0CWDJwx1UNC9y46x58GgtqOL2TvjabXOFCpzPSY3vJSm355ddLPQxz7P3mmNPwSG7vraYWNdLOk4j9E7tn~WLLn7lauAhVaujRqkPZDQneAKUq-87QBKNpdCcw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "category": "Food",
+    "description": "Best-selling novel: The Great Adventure.",
+    "price": 12.99,
+    "category_bg": "#FEE3DA",
+    "card_bg": "#FEEAE4",
+    "text_and_button_bg": "#F87147"
+  }
+]
