@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import ContentWrapper from "../ContentWrapper/ContentWrapper";
 const Navbar = () => {
   return (
-    <nav className="bg-white py-12">
+    <nav className="py-12 absolute top-0 left-0 right-0 w-full bg-transparent">
       <ContentWrapper>
         <div className="flex justify-between items-center">
           {/* logo side  */}
