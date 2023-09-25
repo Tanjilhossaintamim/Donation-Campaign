@@ -31,12 +31,16 @@ const Details = () => {
         title: <strong>Good job!</strong>,
         html: <i>You Doneted Succefully !</i>,
         icon: "success",
+        showConfirmButton: false,
+        timer: 1500,
       });
     } else {
       MySwal.fire({
         title: <strong>Sorry</strong>,
         html: <i>You Already Doneted Here !</i>,
-        icon: "warning",
+        icon: "info",
+        showConfirmButton: false,
+        timer: 1500,
       });
     }
   };
