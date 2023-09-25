@@ -38,7 +38,7 @@ const DonationPage = () => {
             <button
               onClick={() => setDatalength(myDonation.length)}
               className={`w-[110px] h-12 text-[16px] mx-auto mt-10 font-semibold bg-[#009444] text-white rounded-lg ${
-                myDonation.length === dataLength ? "hidden" : "block"
+                myDonation.length <=dataLength ? "hidden" : "block"
               }`}
             >
               See All

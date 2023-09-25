@@ -25,7 +25,7 @@ const Details = () => {
   };
 
   const handelDonation = () => {
-    const save = saveDatatoLocalStorage(id);
+    const save = saveDatatoLocalStorage(id, price);
     if (save) {
       MySwal.fire({
         title: <strong>Good job!</strong>,

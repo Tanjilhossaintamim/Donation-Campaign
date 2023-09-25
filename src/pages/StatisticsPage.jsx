@@ -1,5 +1,11 @@
+import PieChart from "../components/Chart/PieChart";
+
 const StatisticsPage = () => {
-  return <div>StatisticsPage</div>;
+  return (
+    <div className="flex justify-center items-center">
+      <PieChart />
+    </div>
+  );
 };
 
 export default StatisticsPage;
