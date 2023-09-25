@@ -10,7 +10,7 @@ const Donation = ({ donation }) => {
     card_bg,
     text_and_button_bg,
   } = donation || {};
-  console.log(card_bg);
+
   return (
     <div
       className="w-[312px] h-[283px] rounded-lg cursor-pointer"
