@@ -46,14 +46,14 @@ export default function App() {
   }, [totalPrice]);
 
   return (
-    <PieChart width={600} height={600}>
+    <PieChart width={500} height={500}>
       <Pie
         data={data}
-        cx={300}
-        cy={300}
+        cx={250}
+        cy={250}
         labelLine={false}
         label={renderCustomizedLabel}
-        outerRadius={200}
+        outerRadius={150}
         fill="#8884d8"
         dataKey="value"
       >

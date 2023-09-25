@@ -14,11 +14,15 @@ const MyDonationList = ({ donet }) => {
   } = donet || {};
   return (
     <div
-      className="w-[312px] h-auto lg:w-[630px] lg:h-200px rounded-lg flex flex-col lg:flex-row lg:items-center"
+      className="w-[312px] h-auto lg:w-[630px] md:ml-10 lg:ml-0 lg:h-200px rounded-lg flex flex-col lg:flex-row lg:items-center"
       style={{ background: card_bg }}
     >
-      <div className="w-full lg:w-[220px] h-[200px] relative">
-        <img src={picture} alt={title} className="w-full h-full object-cover" />
+      <div className="w-full lg:w-[220px] h-[200px] relative ">
+        <img
+          src={picture}
+          alt={title}
+          className="w-full h-full object-cover rounded-t-lg lg:rounded-t-none"
+        />
       </div>
       <div className="ml-5 py-5 lg:py-0 ">
         <span
