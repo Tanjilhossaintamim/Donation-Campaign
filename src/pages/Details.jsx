@@ -64,7 +64,7 @@ const Details = () => {
             </div>
           </div>
           {/* infodiv */}
-          <div className="mt-12">
+          <div className="mt-12 w-full px-4 lg:px-0">
             <h1 className="text-4xl font-bold text-[#0b0b0b]">{title}</h1>
             <p className="py-8 text-[#0b0b0bb3] text-[16px] font-normal text-justify leading-7">
               {description}

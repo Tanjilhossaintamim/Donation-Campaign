@@ -22,7 +22,9 @@ const DonationList = () => {
   return (
     <section className="py-32">
       <ContentWrapper>
-        <div className="grid place-content-center md:grid-cols-2 lg:grid-cols-4 gap-6">{content}</div>
+        <div className="grid gap-6 md:ml-10 lg:ml-0 place-content-center md:grid-cols-2  lg:grid-cols-4 ">
+          {content}
+        </div>
       </ContentWrapper>
     </section>
   );
