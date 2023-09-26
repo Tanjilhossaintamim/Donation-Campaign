@@ -13,12 +13,11 @@ const Banner = () => {
               placeholder="Search here..."
               className="rounded-lg md:w-[470px] h-12 border border-[#DEDEDE] outline-none md:rounded-none md:rounded-l-lg px-7"
             />
-            <button
+            <input
               type="submit"
-              className="w-28 h-12 rounded-lg bg-color-rose text-white md:rounded-none md:rounded-r-lg"
-            >
-              Search
-            </button>
+              className="w-28 h-12 rounded-lg lg:w-[112px] bg-color-rose text-white md:rounded-none md:rounded-r-lg"
+              value={"Search"}
+            />
           </div>
         </div>
       </ContentWrapper>
