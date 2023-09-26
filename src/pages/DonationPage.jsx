@@ -26,6 +26,8 @@ const DonationPage = () => {
     content = myDonation
       .slice(0, dataLength)
       .map((item) => <MyDonationList key={item.id} donet={item} />);
+  } else {
+    content = <p>You Have No Donation !</p>;
   }
   return (
     <section>
@@ -38,7 +40,7 @@ const DonationPage = () => {
             <button
               onClick={() => setDatalength(myDonation.length)}
               className={`w-[110px] h-12 text-[16px] mx-auto mt-10 font-semibold bg-[#009444] text-white rounded-lg ${
-                myDonation.length <=dataLength ? "hidden" : "block"
+                myDonation.length <= dataLength ? "hidden" : "block"
               }`}
             >
               See All
