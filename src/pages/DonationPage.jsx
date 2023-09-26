@@ -27,7 +27,7 @@ const DonationPage = () => {
       .slice(0, dataLength)
       .map((item) => <MyDonationList key={item.id} donet={item} />);
   } else {
-    content = <p>You Have No Donation !</p>;
+    content = <p className="text-xl font-bold text-center">You Have No Donation !</p>;
   }
   return (
     <section>
