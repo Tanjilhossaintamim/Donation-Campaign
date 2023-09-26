@@ -1,8 +1,24 @@
-# React + Vite
+# Donation Campaign
+user can be donet a fund and can see a pie chart where user will see his donation percentage.
+<a href="https://donation-campaign-th.netlify.app/" >Live Site</a>
+## Features
+## This Appication has Lots of Dynamic Features
+- Each Donation Card has diffrent color such as different card background color.text color,button color
+- when user will see fund details page where user will see a donet button this button background color is same as category and title text color.
+- user only donet on time in a fund . can not duplicate donate in same fund .
+- user can see a pie chat in statistice page where user will see a chart There user can see how much percentage he has donated from the total donation according to his donation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## How to install
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ```
+git clone https://github.com/Tanjilhossaintamim/Donation-Campaign.git
+```
+```
+cd Donation-Campaign
+```
+```
+npm install
+```
+```
+npm run dev
+```
