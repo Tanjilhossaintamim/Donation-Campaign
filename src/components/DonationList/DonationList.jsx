@@ -1,10 +1,12 @@
-import { useEffect } from "react";
+import { useContext, useEffect } from "react";
 import ContentWrapper from "../ContentWrapper/ContentWrapper";
 import { useState } from "react";
 import Donation from "./Donation";
+import { SearchContext } from "../../Provider/ContextProvider";
 
 const DonationList = () => {
   const [donations, setDonations] = useState([]);
+  const { searchValue } = useContext(SearchContext);
 
   useEffect(() => {
     fetch("/donation.json")
@@ -15,9 +17,19 @@ const DonationList = () => {
   // deside what to render
   let content = null;
   if (donations.length > 0) {
-    content = donations.map((donation) => (
-      <Donation key={donation.id} donation={donation} />
-    ));
+    content = donations.filter((don) => {
+      if (searchValue) {
+        return don.category.toLowerCase().startsWith(searchValue.toLowerCase());
+      }
+      return true;
+    });
+    if (content.length > 0) {
+      content = content.map((donation) => (
+        <Donation key={donation.id} donation={donation} />
+      ));
+    } else {
+      content = <div className="text-2xl text-center">No Data Found !</div>;
+    }
   }
   return (
     <section className="py-32">
