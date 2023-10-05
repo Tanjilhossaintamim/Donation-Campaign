@@ -4,19 +4,10 @@ import { SearchContext } from "../../Provider/ContextProvider";
 const Banner = () => {
   const { searchValue, setSearchValue } = useContext(SearchContext);
 
-  const debounce = (fn, timeout = 50) => {
-    let timer;
-    return (...args) => {
-      clearTimeout(timer);
-      timer = setTimeout(() => {
-        fn(...args);
-      }, timeout);
-    };
+  
+  const handelSearch = (value)=>{
+    setSearchValue(value)
   };
-  const saveSearch = (value) => {
-    setSearchValue(value);
-  };
-  const handelSearch = debounce(saveSearch);
 
   const handelsubmit = (e) => {
     e.preventDefault();

@@ -1,4 +1,5 @@
 import { createContext, useState } from "react";
+import PropTypes from "prop-types";
 
 export const SearchContext = createContext(null);
 const ContextProvider = ({ children }) => {
@@ -12,6 +13,9 @@ const ContextProvider = ({ children }) => {
       {children}
     </SearchContext.Provider>
   );
+};
+ContextProvider.propTypes = {
+  children: PropTypes.node,
 };
 
 export default ContextProvider;
